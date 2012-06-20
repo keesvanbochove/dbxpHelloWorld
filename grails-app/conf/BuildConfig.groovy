@@ -52,3 +52,5 @@ grails.project.dependency.resolution = {
         build ":tomcat:$grailsVersion"
     }
 }
+
+grails.server.port.http = "8777"
