@@ -22,6 +22,9 @@ grails.project.dependency.resolution = {
         grailsCentral()
         mavenCentral()
 
+	// nmcdsp release repository
+	mavenRepo "http://nexus.nmcdsp.org/content/repositories/releases"
+
         // uncomment these to enable remote dependency resolution from public Maven repositories
         //mavenCentral()
         //mavenLocal()
